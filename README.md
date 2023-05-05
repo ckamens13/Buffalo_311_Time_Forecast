@@ -1,4 +1,4 @@
-# Buffalo_311_Time_Forecast<
+# Buffalo_311_Time_Forecast
 ## Cassie Kamens
 ## Class-DAT512
 ## Institution- Canisius College
